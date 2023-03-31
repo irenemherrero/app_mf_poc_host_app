@@ -11,3 +11,11 @@ Requires the micro apps https://github.com/irenemherrero/app_mf_poc_details_app 
 ## Start app
 
 `npm start`
+
+## Build app
+
+`npm run build`
+
+## Serve build
+
+`npm run build:start`
